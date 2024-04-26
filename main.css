@@ -1,0 +1,57 @@
+
+
+body {
+    font-family:'Roboto', sans-serif;
+    background-color: rgb(39, 37, 37);
+    }
+    
+    h1 {
+    text-align: left;
+    color: #f718e5;
+    }
+    
+    form {
+    margin-bottom: 5px;
+    color: #e3379e;
+    }
+    
+    form label {
+    display: block;
+    margin-bottom: 5px;
+    color: #ea247d;
+    
+    }
+    
+    form input {
+    width: 30%;
+    margin-bottom: 5px;
+    padding: 5px;
+    color: #000000;
+    display: flex;
+    }
+    
+    table {
+    width: 30%;
+    border-width: 2px;
+    color: #ffffff;
+    display: center;
+    }
+    
+    table th, table td {
+    border: 7px solid #3e21ff;
+    padding: 12px;
+    text-align: center;
+    color: #ff00f7;
+    }
+    
+    table th {
+    background-color: #ffffff;
+    padding: 15px;
+    
+
+    }
+
+    .emojidetelefone{
+    display: flow-root;
+    padding: 5px;
+    }
